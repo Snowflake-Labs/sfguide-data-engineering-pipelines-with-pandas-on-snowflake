@@ -6,4 +6,4 @@ In this guide, you will learn how to use the Snowpark Pandas API to create a cus
 
 ## Step-By-Step Guide
 
-For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [QuickStart Guide](https://quickstarts.snowflake.com/guide/data_engineering_pipelines_with_snowpark_pandasindex.html).
+For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [QuickStart Guide](https://quickstarts.snowflake.com/guide/data_engineering_pipelines_with_snowpark_pandas/index.html).
