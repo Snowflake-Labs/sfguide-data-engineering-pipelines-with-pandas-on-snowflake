@@ -1,8 +1,8 @@
-# Data Engineering Pipelines With Snowpark Pandas
+# Data Engineering Pipelines with pandas on Snowflake
 
 ## Overview
 
-In this guide, you will learn how to use the Snowpark Pandas API to create a customer profile based on the using the [Snowflake Sample TPC-H dataset](https://docs.snowflake.com/en/user-guide/sample-data-tpch), save it into a Snowflake table and to create a serverless task to schedule the feature engineering.
+In this guide, you will learn how to use [pandas on Snowflake](https://docs.snowflake.com/developer-guide/snowpark/python/snowpark-pandas) to create a customer profile based on the using the [Snowflake Sample TPC-H dataset](https://docs.snowflake.com/en/user-guide/sample-data-tpch), save it into a Snowflake table and to create a serverless task to schedule the feature engineerin pipeline.
 
 ## Step-By-Step Guide
 
