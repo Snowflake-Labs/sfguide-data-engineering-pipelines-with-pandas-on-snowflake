@@ -1,3 +1,5 @@
+![Snowflake - Certified](https://img.shields.io/badge/Snowflake-Certified-2ea44f?style=for-the-badge&logo=snowflake)
+
 # Data Engineering Pipelines with pandas on Snowflake
 
 ## Overview
